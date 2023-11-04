@@ -1,4 +1,4 @@
-# close-wire
+# CryptCom
 Servicio de mensajería altamente optimizado y reforzado para su uso simple y seguro
 
 ## Funcionalidad
